@@ -1,2 +1,2 @@
 # examples
-Examples of Concourse workflows test v1
+Examples of Concourse workflows test v2
